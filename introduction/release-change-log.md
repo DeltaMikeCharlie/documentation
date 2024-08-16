@@ -2049,7 +2049,7 @@ layout:
 * DVR: add username to the subscription, fixes #5215, fixes #5263 ([2018-10-16](https://github.com/tvheadend/tvheadend/commit/72ba707d5232bb4569e616c82c563f457826ec9c))
 
 
-**Automatically generated: 2024-08-14 01:38:47 UTC**
+**Automatically generated: 2024-08-16 05:40:00 UTC**
 
 
 [^1]: Remove tvheadend user on purge
